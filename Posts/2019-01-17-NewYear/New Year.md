@@ -1,0 +1,26 @@
+
+# This is the new year
+
+With the start of every new year, there’s a surge of excitement that rushes through me as I crack open the spine of a new planner. There’s an optimistic and hopeful energy that fills the air those first few days of every new year. There’s something truly special about having the opportunity to start fresh, set high hopes and dreams, and put your best foot forward alongside everyone around you as you each tackle a new year and pursue your own best version of you. For me, it’s not just a new year but also the beginning of a new age as I celebrate my own birthday mid-January.
+
+With setting goals and expectations for the upcoming year, there is an inherent sense of reflection on the successes and failures of the last 365 days. This year, in laying out my intentions for 2019, I’m choosing to give myself grace. Rather than critiquing my failures and shortcomings of the last year, I want to continue to look forward and focus on the promising potential of the new year and age that lie ahead of me.
+
+This year I have also decided to keep things simple by only laying out my broad intentions for the year rather than trying to get specific. I’m sure there are plenty of self-help books out there that would find that last statement controversial and a recipe for disaster for any individual trying to realistically set and achieve their goals. However, if you’re anything like me, your list of New Year’s resolutions typically starts off looking something like: eat healthy, exercise more, go to bed earlier every night… clean the pantry, etc., and before you know it, you’re looking at something that looks a lot more like a long and dreadful to-do list.
+
+While I do have specific goals in mind and plans for achieving those goals in the upcoming year, I want my intentions for 2019 to serve as a kind and gentle reminder of themes and areas in my life that I continually want to improve on for the years to come – things that I will never quite master perfection in but will instead attempt to find a good balance in. Here are my intentions for the upcoming year:
+
+GO OUTSIDE AND ENJOY THE DAY – Whether it’s a short walk, a hike, or week-long camping trip, there’s nothing I find more refreshing than breathing in some fresh air. As much as I enjoy the outdoors, it’s not uncommon for me to sometimes go whole days without really stepping outside for any longer than a few minutes. I want to be better at finding reasons to spend time outside and less time sitting in front of a computer.
+
+KEEP AN OPEN MIND – I spent a lot of time last year studying for a big exam and not a lot of time reading books simply out of enjoyment. While I don’t want to abandon my studying, I hope to make more time to read books I enjoy reading, learn something new, or take a fun class. This year I’m excited to spend some extra time bringing to life my mental vision for this website!
+
+STRIVE FOR A SUSTAINABLE & HEALTHY ROUTINE – I’m still trying to find a routine that’s a good harmony of exercising regularly, eating healthy, getting enough rest, etc. It seems like there are moments in my life where I’m really good at one but not so great at another. My intention here is to find a routine that marries all the various pieces together and feels right and sustainable for me.
+
+SLOW DOWN & EBRACE UNCERTAINTY – The older I get, the faster time seems to get away from me. I used to think that everything, or at least most things in my life, were things within my control scheduled to fall into place according to my own timeline. I have come to find that, as a general rule, I am not in full control of my circumstances and future. However, I am in control of how I show up to those circumstances and I can choose to show up in the discomfort of the unknown and still savor and enjoy the moment rather than fixating on self-imposed timelines.
+
+DON’T FORGET TO BE GRATEFUL – With the hustle and bustle of everyday responsibilities and commitments, it’s easy to get caught up in the day-to-day and forget how blessed our lives really are. I want to make the extra effort to think about the blessings in my life, let those around me know that I’m seeing their acts of kindness, and remember to say “thank you.”
+
+LET GO OF PERFECTION AND SHOW YOURSELF GRACE – I am, without a doubt, my own worst critic. While I don’t think I’ll relinquish my perfectionist tendencies over night, sometimes I need a kind reminder that “good enough is good enough” and there is no such thing as finishing everything on one’s to-do list and that’s perfectly okay. Instead of focusing on the things that were left undone at the end of the day, I want to focus on the things that were accomplished and remember that tomorrow is a new day.
+
+Happy 2019! What are some of your goals for the new year? If you had to choose just one thing to focus on, what would it be?
+
+ – Corinna
