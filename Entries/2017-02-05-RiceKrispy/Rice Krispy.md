@@ -1,4 +1,6 @@
 
+[^url]: rice-krispie-treats
+
 # Rice krispie treats
 
 ![](./RiceKrispy1.jpg)

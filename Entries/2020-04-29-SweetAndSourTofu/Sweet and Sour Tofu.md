@@ -60,10 +60,11 @@ To clarify, today I’m not sharing my recreation of the Wheatsville popcorn tof
 3. Breading: In three separate bowls, place 1) the flour 2) the plain almond milk and 3) the breadcrumb mixture. First, coat each piece of tofu evenly with flour by pressing each side of the tofu into the flour bowl. Second, dip each piece of flour-coated tofu into the almond milk bowl so that the outside of the tofu becomes sticky and tacky (be careful not to submerge for too long or the flour will just fall off). Third, transfer the sticky tofu cube into the breadcrumb bowl and, with a spoon, press the breadcrumbs to coat the tofu evenly. The mixture of panko and plain breadcrumbs is what will help us achieve an even and crispy coat.
 4. Bake: Place the breaded tofu on a parchment lined baking sheet and lightly drizzle with olive oil. Bake for 20-25 minutes. About halfway through the baking time, flip each piece and drizzle with olive oil again and bake for the remaining time (or until lightly browned at the edges – see middle image below). Take the tofu out of the oven and let it cool for a couple of minutes and, using a silicon brush, evenly brush the sweet n’ sour sauce evenly on each piece. You can also take a spoon and submerge a few pieces of tofu at a time into the saucepan and transfer back to the baking sheet. Place back in the oven and bake for no more than 5 minutes – be careful not to burn the sauce. This extra steps allows the sauce to really stick to the tofu and creates that crispy texture (see third image below). Remove from oven and allow to tofu to cool over the baking sheet before serving.
 
-
-![](./Tofu1.jpeg)
-![](./Tofu2.jpeg)
-![](./Tofu3.jpeg)
+<div class="images-in-a-row">
+    <img src="./Tofu1.jpeg" alt="">
+    <img src="./Tofu2.jpeg" alt="">
+    <img src="./Tofu3.jpeg" alt="">
+</div>
 
 
 ## Recipe Notes

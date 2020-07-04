@@ -41,7 +41,7 @@ for directory in reversed(sorted([f for f in os.listdir(post_path) if os.path.is
         posts.append({
             "html": html,
             "post_dir": directory,
-            "post_file": directory + ".html",
+            "post_file": (r.metatags['url'] if 'url' in r.metatags else directory) + ".html",
             "post_name": os.path.join('posts', (r.metatags['url'] if 'url' in r.metatags else directory) + ".html"),
             "meta": r.metatags,
         })
@@ -51,13 +51,12 @@ for directory in reversed(sorted([f for f in os.listdir(post_path) if os.path.is
 with open('index.html', 'w') as f:
     posts_html = [post['html'].replace('src="./', 'src="'+post_path+"/"+post['post_dir']+'/')
                               .replace('{{mainlink}}', post['post_name']) for post in posts]
-    f.write(index_template.replace('{{main_text}}', "\n".join(posts_html))
+    f.write(index_template.replace('{{main_text}}', "\n".join("<section>"+post+"</section>" for post in posts_html))
                           .replace('{{toplink}}', ""))
                           
 
 for post in posts:
     with open(post['post_name'], 'w') as f:
-        print(post['post_name'], post['meta'])
         post_html = post['html'].replace('src="./', 'src="../'+post_path+"/"+post['post_dir']+'/') \
                                 .replace('{{mainlink}}', post['post_file']) 
         f.write(index_template.replace('{{main_text}}', post_html).replace('./HTML/', './../HTML/')
