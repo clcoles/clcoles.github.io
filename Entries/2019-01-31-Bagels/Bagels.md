@@ -1,4 +1,5 @@
 
+[^url]: everything-minus-the-bagel-seasoning
 
 # Everything minus the bagel seasoning
 

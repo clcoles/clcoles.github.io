@@ -1,4 +1,6 @@
 
+[^url]: hello-world
+
 # Hello World
 
 Welcome and thank you for stopping by!
@@ -9,4 +11,4 @@ Weekdays from nine to five, I am a transfer pricing associate at an accounting f
 
 However, I am certain that my brain is equal parts right and left. My hopes are that this blog serves as a creative outlet where I can share the less-technical details of my day-to-day along with other things that I enjoy and inspire me. I’m excited to see how this grows and hope that you keep coming back for more!
 
-– Corinna
+ – Corinna

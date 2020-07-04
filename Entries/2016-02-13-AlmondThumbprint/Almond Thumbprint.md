@@ -1,4 +1,6 @@
 
+[^url]: almond-thumbprint-cookies
+
 # Almond Thumbprint Cookies
 
 ![](./AlmondThumbprint1.jpg)
@@ -29,7 +31,6 @@ The recipe for these cookies is perhaps one of the most simple cookie recipes yo
 - 1 c powdered sugar
 - 1 – 2 tbsp almond milk (or milk of choice)
 - 1 tbs almond extract (replace with vanilla if allergic)
-
 
 ## Instructions 
 

@@ -1,4 +1,6 @@
 
+[^url]: beet-burgers
+
 # Beet Burgers
 
 ![](./Beet1.jpg)

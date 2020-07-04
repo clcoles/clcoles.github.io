@@ -1,4 +1,6 @@
 
+[^url]: sweet-and-sour-tofu
+
 # My favorite breading method featuring sweet n’ sour tofu rice bowls
 
 ![](./TofuHeader.jpeg)
@@ -69,3 +71,4 @@ To clarify, today I’m not sharing my recreation of the Wheatsville popcorn tof
 - This method is very versatile and works on a number of things in place of deep frying. I’ve used this method to bread butternut squash for tacos, on cauliflower to make buffalo bbq cauliflower “wings,” on eggplant to make eggplant parmesan, etc.
 
  – Corinna
+
