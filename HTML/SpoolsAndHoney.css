@@ -23,9 +23,7 @@ select,option{padding:0 .25em;}
 optgroup{margin-top:.5em;}
 img{border:0;max-width:100%;}
 abbr{border-bottom:none;}
-a{color:#4183c4;text-decoration:none;}
 a:hover{text-decoration:underline;}
-a code,a:link code,a:visited code{color:#4183c4;}
 h1 {  font-family: times, "times new roman", serif; font-weight: 400; font-size: 1.625rem;}
 h2,h3{margin:1em 0;}
 h1,h2,h3,h4,h5,h6{border:0;}
@@ -96,6 +94,9 @@ header a {
 header a:hover {
     text-decoration: none;
     color: black;
+}
+a, a:visited {
+  color: #bf9f8f;
 }
 /*
   Navigation 
@@ -174,7 +175,7 @@ footer {
   justify-content: center;
 }
 
-h2, h3, h4, h5, p, li, footer {
+h2, h3, h4, h5, p, li, footer, em {
   color: #767676;
 }
 

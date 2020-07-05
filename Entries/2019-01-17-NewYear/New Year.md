@@ -4,6 +4,8 @@
 # This is the new year
 ![](./coffee.jpg)
 
+<div style="text-align:right"><em >Source: <a href="https://www.brightandbeautifulblog.com/" target="_blank">Bright and Beautiful</a></em></div>
+
 With the start of every new year, there’s a surge of excitement that rushes through me as I crack open the spine of a new planner. There’s an optimistic and hopeful energy that fills the air those first few days of every new year. There’s something truly special about having the opportunity to start fresh, set high hopes and dreams, and put your best foot forward alongside everyone around you as you each tackle a new year and pursue your own best version of you. For me, it’s not just a new year but also the beginning of a new age as I celebrate my own birthday mid-January.
 
 With setting goals and expectations for the upcoming year, there is an inherent sense of reflection on the successes and failures of the last 365 days. This year, in laying out my intentions for 2019, I’m choosing to give myself grace. Rather than critiquing my failures and shortcomings of the last year, I want to continue to look forward and focus on the promising potential of the new year and age that lie ahead of me.
