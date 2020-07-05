@@ -178,7 +178,6 @@ h2, h3, h4, h5, p, li, footer {
 
 p {
     margin: 1.250rem 0;
-
 }
 
 .images-in-a-row {
@@ -194,18 +193,18 @@ main > section:not(:first-child) {
   margin-top: 4rem;
 }
 
-@media screen and (min-width: calc(70rem + 16rem)) {
+@media screen and (min-width: calc(70rem + 19rem)) {
   body {
     
     display: grid;
   
     grid-template-areas:
-      "header header header header"
-      "nav nav nav nav"
-      ". content side ."
-      "footer footer footer footer";
+      "header header header header header"
+      "nav nav nav nav nav"
+      ". content . side ."
+      "footer footer footer footer footer";
   
-    grid-template-columns: 1fr 70rem 16rem 1fr;
+    grid-template-columns: 1fr 70rem 3rem 16rem 1fr;
     grid-template-rows: auto auto 1fr auto;
     grid-gap: 0;
   
@@ -215,7 +214,7 @@ main > section:not(:first-child) {
     max-width: 70rem;
   }
 }
-@media screen and (max-width: calc(70rem + 16rem)) {
+@media screen and (max-width: calc(70rem + 19rem)) {
 
   .sidebar--aboutme {
     visibility: hidden;
@@ -252,4 +251,8 @@ main > section:not(:first-child) {
   nav, aside {
     margin: 0;
   }
+}
+
+p img {
+  width: 100%;
 }

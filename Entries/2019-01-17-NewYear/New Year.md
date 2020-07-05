@@ -2,6 +2,7 @@
 [^url]: new-year-2019
 
 # This is the new year
+![](./coffee.jpg)
 
 With the start of every new year, there’s a surge of excitement that rushes through me as I crack open the spine of a new planner. There’s an optimistic and hopeful energy that fills the air those first few days of every new year. There’s something truly special about having the opportunity to start fresh, set high hopes and dreams, and put your best foot forward alongside everyone around you as you each tackle a new year and pursue your own best version of you. For me, it’s not just a new year but also the beginning of a new age as I celebrate my own birthday mid-January.
 
