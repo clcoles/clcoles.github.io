@@ -67,6 +67,7 @@ header {
     justify-content: center;
     height: 10rem;
     align-items: center;
+    text-align: center;
 }
 /*
   Layout
@@ -75,8 +76,10 @@ header {
 /*
   Header 
   */
+nav a{color:#4183c4;text-decoration:none;}
 a.entry-title {
     color: #4c4c4c;
+    text-decoration: none;
 }
 header {
   grid-area: header;
@@ -89,6 +92,7 @@ header a {
     font-weight: 400;
     line-height: 1;
     font-size: 52px;
+    text-decoration: none;
     color: black;
 }
 header a:hover {
@@ -97,6 +101,8 @@ header a:hover {
 }
 a, a:visited {
   color: #bf9f8f;
+
+  color: black;
 }
 /*
   Navigation 
