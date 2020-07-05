@@ -1,0 +1,2 @@
+#!/bin/bash
+fswatch -0 Entries | while read -d "" event; do; ./build; done
