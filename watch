@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/zsh
 fswatch -0 Entries | while read -d "" event; do; ./build; done
